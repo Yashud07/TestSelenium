@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16969" started-at="2022-01-09T19:21:34 IST" finished-at="2022-01-09T19:21:51 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="14867" started-at="2022-01-09T19:21:34 IST" finished-at="2022-01-09T19:21:49 IST">
+      <class name="MyTests.QuickRow2Test">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:MyTests.QuickRow2Test@7ba18f1b]" name="OpenBrowser" is-config="true" duration-ms="9942" started-at="2022-01-09T19:21:34 IST" finished-at="2022-01-09T19:21:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Alerts()[pri:0, instance:MyTests.QuickRow2Test@7ba18f1b]" name="Alerts" duration-ms="107" started-at="2022-01-09T19:21:44 IST" finished-at="2022-01-09T19:21:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Alerts -->
+        <test-method status="PASS" signature="openwindow()[pri:0, instance:MyTests.QuickRow2Test@7ba18f1b]" name="openwindow" duration-ms="4051" started-at="2022-01-09T19:21:44 IST" finished-at="2022-01-09T19:21:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openwindow -->
+        <test-method status="PASS" signature="closbrowser()[pri:0, instance:MyTests.QuickRow2Test@7ba18f1b]" name="closbrowser" is-config="true" duration-ms="762" started-at="2022-01-09T19:21:48 IST" finished-at="2022-01-09T19:21:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closbrowser -->
+      </class> <!-- MyTests.QuickRow2Test -->
+    </test> <!-- Test1 -->
+    <test name="Test" duration-ms="16969" started-at="2022-01-09T19:21:34 IST" finished-at="2022-01-09T19:21:51 IST">
+      <class name="MyTests.Quicktest1">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:MyTests.Quicktest1@4fcd19b3]" name="OpenBrowser" is-config="true" duration-ms="8626" started-at="2022-01-09T19:21:34 IST" finished-at="2022-01-09T19:21:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="checkbox()[pri:0, instance:MyTests.Quicktest1@4fcd19b3]" name="checkbox" duration-ms="236" started-at="2022-01-09T19:21:42 IST" finished-at="2022-01-09T19:21:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbox -->
+        <test-method status="PASS" signature="radioButtun()[pri:0, instance:MyTests.Quicktest1@4fcd19b3]" name="radioButtun" duration-ms="619" started-at="2022-01-09T19:21:43 IST" finished-at="2022-01-09T19:21:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioButtun -->
+        <test-method status="PASS" signature="selectDropdown()[pri:0, instance:MyTests.Quicktest1@4fcd19b3]" name="selectDropdown" duration-ms="398" started-at="2022-01-09T19:21:43 IST" finished-at="2022-01-09T19:21:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDropdown -->
+        <test-method status="PASS" signature="suggestiveTestBox()[pri:0, instance:MyTests.Quicktest1@4fcd19b3]" name="suggestiveTestBox" duration-ms="2440" started-at="2022-01-09T19:21:44 IST" finished-at="2022-01-09T19:21:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suggestiveTestBox -->
+        <test-method status="PASS" signature="closbrowser()[pri:0, instance:MyTests.Quicktest1@4fcd19b3]" name="closbrowser" is-config="true" duration-ms="4580" started-at="2022-01-09T19:21:46 IST" finished-at="2022-01-09T19:21:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closbrowser -->
+      </class> <!-- MyTests.Quicktest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
